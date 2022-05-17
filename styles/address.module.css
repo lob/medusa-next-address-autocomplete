@@ -1,0 +1,15 @@
+.address {
+    width: 100%;							
+  }
+                                      
+  .address :active {
+    outline: none;
+    border: none;								
+  }
+                                      
+  .address > div {
+    font-size: 13.3px;
+    border-style: none;
+    border-radius: 8px;								
+  }
+  
