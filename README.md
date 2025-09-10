@@ -1,3 +1,15 @@
+<h1 align="center">
+  
+⚠️ **Archived Project Notice**
+  
+</h1>
+<p align="center">
+This project is no longer maintained and has been archived for historical reference. 
+</p>
+<p align="center">
+It may contain outdated or vulnerable dependencies and <b>should not be used in production environments</b>.
+</p>
+
 <p align="center">
   <a href="https://nextjs.org/">
     <img alt="Next.js" src="https://medusa-public-images.s3.eu-west-1.amazonaws.com/nextjs.png" width="100" />
